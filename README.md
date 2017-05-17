@@ -1,7 +1,3 @@
-Demo: https://pasquale-cs.github.io//
-
-***
-
 # [EN] - Reader CSV in PHP
 Class PHP for reader CSV files
 
