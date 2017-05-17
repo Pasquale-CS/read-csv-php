@@ -1,0 +1,23 @@
+{
+    "name": "pcs/read-csv",
+    "description": "Class for reader CSV files",
+    "keywords": ["csv","read","reader","php","pcs"],
+    "homepage": "https://github.com/pasquale-cs/pcs-read-csv",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pasquale Cappa Spina",
+            "email": "info@pasqualecappaspina.com",
+            "homepage": "http://pasqualecappaspina.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "PcsReadCsv": "src"
+        }
+    }
+}
