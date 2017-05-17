@@ -2,7 +2,7 @@
     "name": "pcs/read-csv",
     "description": "Class for reader CSV files",
     "keywords": ["csv","read","reader","php","pcs"],
-    "homepage": "https://github.com/pasquale-cs/pcs-read-csv",
+    "homepage": "https://github.com/Pasquale-CS/read-csv-php",
     "license": "MIT",
     "authors": [
         {
