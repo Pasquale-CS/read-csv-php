@@ -4,7 +4,7 @@ Class PHP for reader CSV files
 Include "src/pcs/read-csv/PcsReadCsv.php" in your project and use the class "PcsReadCsv()" in your script.
 
 ## Quick installation
-```composer
+```bash
 composer require pcs/read-csv
 ```
 
@@ -37,7 +37,7 @@ Classe PHP per leggere i files CSV.
 Includere il file "src/pcs/read-csv/PcsReadCsv.php" net tuo progetto e usare la classe "PcsReadCsv()" nel tuo script.
 
 ## Installazione rapida
-```composer
+```bash
 composer require pcs/read-csv
 ```
 
