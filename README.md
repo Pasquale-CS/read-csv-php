@@ -1,4 +1,4 @@
-# [EN] - Reader CSV in PHP 
+# [EN] - Reader CSV in PHP
 Class PHP for reader CSV files
 
 Include "src/pcs/read-csv/PcsReadCsv.php" in your project and use the class "PcsReadCsv()" in your script.
