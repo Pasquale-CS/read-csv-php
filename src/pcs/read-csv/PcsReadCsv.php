@@ -21,9 +21,7 @@ class PcsReadCsv
 	{
 		$extension = end(explode('.', $csv['name']));
 		if($extension !== 'csv')
-		{
 		   exit('No CSV file.');
-		}
 
 		$this->csv = $csv;
 		$this->is_title = $is_title;
